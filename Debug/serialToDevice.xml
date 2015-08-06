@@ -1,0 +1,540 @@
+<GuardServer>
+    <SerialCount num="1">
+        <CSGSDK.dll>
+            <id>0101</id>
+            <serialNum>1</serialNum>
+            <chanel>1</chanel>
+            <deviceType>1</deviceType>
+            <name>serial_01_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口1-->
+            <id>0102</id>
+            <serialNum>1</serialNum>
+            <chanel>2</chanel>
+            <deviceType>1</deviceType>
+            <name>serial_01_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口1-->
+            <id>0103</id>
+            <serialNum>1</serialNum>
+            <chanel>3</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_01_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口1-->
+            <id>0104</id>
+            <serialNum>1</serialNum>
+            <chanel>4</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_01_chanel_04</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口2-->
+            <id>0201</id>
+            <serialNum>02</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_02_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口2-->
+            <id>0201</id>
+            <serialNum>02</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_02_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口2-->
+            <id>0203</id>
+            <serialNum>02</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_02_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口2-->
+            <id>0204</id>
+            <serialNum>02</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_02_chanel_04</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口3-->
+            <id>0301</id>
+            <serialNum>03</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_03_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口3-->
+            <id>0302</id>
+            <serialNum>03</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_03_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口3-->
+            <id>0303</id>
+            <serialNum>03</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_03_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口3-->
+            <id>0304</id>
+            <serialNum>03</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_03_chanel_04</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>0401</id>
+            <serialNum>04</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_04_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>0402</id>
+            <serialNum>04</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_04_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>0403</id>
+            <serialNum>04</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_04_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>0404</id>
+            <serialNum>04</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_04_chanel_04</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口5-->
+            <id>0501</id>
+            <serialNum>05</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_05_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口5-->
+            <id>0502</id>
+            <serialNum>05</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_05_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口5-->
+            <id>0503</id>
+            <serialNum>05</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_05_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口5-->
+            <id>0504</id>
+            <serialNum>05</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <name>serial_05_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口6-->
+            <id>0601</id>
+            <serialNum>06</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_06_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口6-->
+            <id>0602</id>
+            <serialNum>06</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_06_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口6-->
+            <id>0603</id>
+            <serialNum>06</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_06_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口6-->
+            <id>0604</id>
+            <serialNum>06</serialNum>
+            <chanel>04</chanel>
+            <deviceType>6</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_06_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口7-->
+            <id>0701</id>
+            <serialNum>07</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_07_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口7-->
+            <id>0702</id>
+            <serialNum>07</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_07_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口7-->
+            <id>0703</id>
+            <serialNum>07</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_07_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口7-->
+            <id>0704</id>
+            <serialNum>07</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_07_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口8-->
+            <id>0801</id>
+            <serialNum>08</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_08_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口8-->
+            <id>0802</id>
+            <serialNum>08</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_08_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口8-->
+            <id>0803</id>
+            <serialNum>08</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_08_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口8-->
+            <id>0804</id>
+            <serialNum>08</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_08_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口9-->
+            <id>0901</id>
+            <serialNum>09</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_09_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口9-->
+            <id>0902</id>
+            <serialNum>09</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_09_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口9-->
+            <id>0903</id>
+            <serialNum>09</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_09_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口9-->
+            <id>0904</id>
+            <serialNum>09</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_09_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口10-->
+            <id>1001</id>
+            <serialNum>10</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_10_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口10-->
+            <id>1002</id>
+            <serialNum>10</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_10_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口10-->
+            <id>1003</id>
+            <serialNum>10</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_10_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口10-->
+            <id>1004</id>
+            <serialNum>10</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_10_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口11-->
+            <id>1101</id>
+            <serialNum>11</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_11_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口11-->
+            <id>1102</id>
+            <serialNum>11</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_11_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>1103</id>
+            <serialNum>11</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_11_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口11-->
+            <id>1104</id>
+            <serialNum>11</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_11_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口12-->
+            <id>1201</id>
+            <serialNum>04</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_12_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>1202</id>
+            <serialNum>12</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_12_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口12-->
+            <id>1203</id>
+            <serialNum>12</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_12_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口12-->
+            <id>1204</id>
+            <serialNum>12</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_12_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口13-->
+            <id>1301</id>
+            <serialNum>13</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_13_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口13-->
+            <id>1302</id>
+            <serialNum>13</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_13_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口13-->
+            <id>1303</id>
+            <serialNum>13</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_13_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口13-->
+            <id>1304</id>
+            <serialNum>13</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_13_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口14-->
+            <id>1401</id>
+            <serialNum>14</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_14_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口14-->
+            <id>1402</id>
+            <serialNum>14</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_14_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口14-->
+            <id>1403</id>
+            <serialNum>14</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_14_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口4-->
+            <id>1404</id>
+            <serialNum>14</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_14_chanel_04</name>
+        </CSGSDK.dll>
+		<CSGSDK.dll>
+            <!--串口15-->
+            <id>1501</id>
+            <serialNum>15</serialNum>
+            <chanel>01</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_15_chanel_01</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口15-->
+            <id>1502</id>
+            <serialNum>15</serialNum>
+            <chanel>02</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_15_chanel_02</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口15-->
+            <id>1503</id>
+            <serialNum>15</serialNum>
+            <chanel>03</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_15_chanel_03</name>
+        </CSGSDK.dll>
+        <CSGSDK.dll>
+            <!--串口15-->
+            <id>1504</id>
+            <serialNum>15</serialNum>
+            <chanel>04</chanel>
+            <deviceType>1</deviceType>
+            <!-- 1代表4路设备, 2代表16路设备-->
+            <name>serial_15_chanel_04</name>
+        </CSGSDK.dll>
+    </SerialCount>
+</GuardServer>
