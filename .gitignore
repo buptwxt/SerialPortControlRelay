@@ -3,3 +3,7 @@
 *.suo
 *.sln
 *.aps
+*.exe
+*.ilk
+*.pdb
+*.vcproj
